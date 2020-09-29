@@ -9,3 +9,4 @@ public class FdibaOutput {
     System.out.println("F     DDDDD   II BBBBB  A       A");
   }
 }
+
